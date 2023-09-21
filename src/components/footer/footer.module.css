@@ -1,5 +1,6 @@
 .footer{
     position: fixed;
     bottom: 0px;
-    width: 100%;
+    width: 50%;
+    /* footer.module.css name changed */
 }
